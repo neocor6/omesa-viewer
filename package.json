@@ -1,0 +1,10 @@
+{
+    "name": "omesa-viewer",
+    "version": "1.0.0",
+    "main": "omesa-viewer.min.js",
+    "description": "Library with helper functiond for Omesa viewer",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/neocor6/omesa-viewer"
+    }
+  }
